@@ -30,10 +30,8 @@ A simple RESTful API for managing daily tasks, built with Go.
 
 ### 1. Clone the repository
 
-Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/taskflow.git
+git clone https://github.com/Moh4mmadNSZ/TaskFlow.git
 ```
 
 ### 2. Enter the project directory
